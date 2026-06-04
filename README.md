@@ -1,7 +1,7 @@
-# 👩🏻 Clarissa Soares 
+# 💻 Clarissa Soares 
 **`Desenvolvedora FullStack`**
 
-Olá! Tudo bem? Meu nome é Clarissa e atualmente sou estudante de Física Computacional na UFMG, além de técnica em Desenvolvimento de Sistemas pela UNINTER. 
+Olá! Tudo bem? Meu nome é Clarissa e atualmente sou estudante de Física Computacional na UFMG, além de técnica em Desenvolvimento de Sistemas pela UNINTER. Atualmente, me dedico ao desenvenvolvimento fullStack de sites e sistemas, mas também busco me especializar em Data Science com foco em economia e mercados imobiliários. 😄
 
     </a> 
     <a href="https://github.com/Clarissaclarissadev-prog?tab=repositories&sort=stargazers">
