@@ -10,8 +10,7 @@ Meu nome é Clarissa, tenho 19 anos e atualmente sou estou estudante de Física 
 * 🖥️ See my portfolio [here](http://clarissadev-prog-git.github.io/portfolio/)
 * 🚀 I'm currently working on [my portfolio](http://clarissadev-prog-git.github.io/portfolio/)
 * 🧠 I'm currently learning React.js
-* 💬 Ask me about Scouting (8+ years)
-
+* 💬 Let's talk a little about philosophy? 
 <p align="center">
 
 ## 🛠️ Technologies, Tools & Socials
